@@ -1,1 +1,1 @@
-console.log('App Config File');
+console.log('App Config File')
